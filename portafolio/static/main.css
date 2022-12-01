@@ -1,0 +1,27 @@
+body {
+    background-color: #353535;
+}
+
+.bg-black {
+    background-color: rgb(29, 29, 29);
+}
+
+.imagenes{
+    padding: 10px;
+    margin: 10px; 
+    border: 2px solid rgb(26, 26, 26); 
+    float: left; 
+    width: 360px;
+    height: 360px;
+}
+
+.image{
+    display: "flex";
+    justify-content: "center";
+    align-items: "center"
+}
+
+.card-project:hover {
+    border: 1px solid white;
+    cursor: pointer;
+}
