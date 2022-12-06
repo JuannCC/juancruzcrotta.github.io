@@ -15,11 +15,6 @@ body {
     height: 360px;
 }
 
-.image{
-    display: "flex";
-    justify-content: "center";
-    align-items: "center"
-}
 
 .card-project:hover {
     border: 1px solid white;
